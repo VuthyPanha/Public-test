@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-04T12:15:02.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="NUWONx9_2Knv2swTdpB2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-12-04T14:59:02.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="iPbFjzZEL1xZvVU0v31R" type="github" pages="8">
   <diagram id="91DlC5nQ_2UUh4WBwbrF" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2934,6 +2934,14 @@
         </mxCell>
         <mxCell id="4cRjleMiJuH7R6Gw0Ynp-26" value="Checkout by scanning QR code" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="785" y="1550" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="4cRjleMiJuH7R6Gw0Ynp-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4cRjleMiJuH7R6Gw0Ynp-27" target="4cRjleMiJuH7R6Gw0Ynp-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="1640" />
+              <mxPoint x="780" y="1640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4cRjleMiJuH7R6Gw0Ynp-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;strokeWidth=2;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="770" y="1550" width="5" height="150" as="geometry" />
